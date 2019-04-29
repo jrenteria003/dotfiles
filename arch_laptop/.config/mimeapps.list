@@ -1,0 +1,19 @@
+[Added Associations]
+application/xml=vim.desktop;
+inode/directory=vlc.desktop;caja-folder-handler.desktop;
+image/x-tga=eom.desktop;
+video/x-msvideo=mplayer.desktop;
+application/x-bittorrent=transmission-gtk.desktop;
+text/plain=pluma.desktop;vim.desktop;atril.desktop;
+text/x-python=pluma.desktop;
+image/vnd.microsoft.icon=eom.desktop;
+application/x-java=pluma.desktop;
+video/x-matroska=mplayer.desktop;
+text/x-java=pluma.desktop;
+application/x-desktop=pluma.desktop;
+
+[Default Applications]
+video/x-msvideo=mplayer.desktop
+inode/directory=caja-folder-handler.desktop
+text/plain=atril.desktop
+application/x-desktop=pluma.desktop
