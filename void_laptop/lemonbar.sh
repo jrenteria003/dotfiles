@@ -1,0 +1,1 @@
+/home/joana/lemonbar.sh

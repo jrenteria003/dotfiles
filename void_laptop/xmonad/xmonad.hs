@@ -1,0 +1,1 @@
+/home/joana/.xmonad/xmonad.hs
